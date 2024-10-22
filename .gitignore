@@ -1,0 +1,14 @@
+build/
+.lock-wscript
+out/
+Makefile.gyp
+*.Makefile
+*.target.gyp.mk
+node_modules/
+builderror.log
+lib/
+npm-debug.log
+package-lock.json
+fixtures/space folder/
+.vscode/settings.json
+.vscode/ipch/
